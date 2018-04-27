@@ -1,4 +1,4 @@
-package com.aislli.ktdemo
+package com.aislli.ktdemo.util
 
 import android.content.Context
 import android.widget.Toast
